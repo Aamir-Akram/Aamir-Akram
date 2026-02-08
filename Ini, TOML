@@ -1,0 +1,4 @@
+app = "vampire-evil-app"
+primary_region = "bom"
+
+[build]
