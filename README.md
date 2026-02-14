@@ -1,8 +1,3 @@
-Bilkul Aamir 👍
-Main aap ke liye ek professional aur clean **GitHub README.md** template bana deta hoon jo student + Sky Code Lab work dono highlight kare — natural aur original tone mein.
-
----
-
 # 🚀 Aamir Akram
 
 ### 💻 Student | Developer | Sky Code Lab Collaborator
