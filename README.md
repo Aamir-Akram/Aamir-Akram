@@ -45,13 +45,3 @@ I design secure corporate-standard code and automated trading systems.
 <p align="center">
   <i>Artifacts recovered from the digital abyss.</i>
 </p>
-### 📟 ESTABLISH SECURE CONNECTION
-
-* **📧 Email:** aamirakram252003@gmail.com
-* **🌐 Portfolio:** [skycodelab.in](https://skycodelab.in)
-* **🤝 Open for:** Penetration Testing, Security Audits, and Scalable Web Engineering.
-
----
-<p align="center">
-  <i>Artifacts recovered from the digital abyss.</i>
-</p>
