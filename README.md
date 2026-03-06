@@ -32,6 +32,8 @@ I design secure corporate-standard code and automated trading systems.
 
 ![Stats](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=github)
 ![Contributions](https://img.shields.io/badge/Contributions-Calculated-blue?style=for-the-badge&logo=git)
+![Stats](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=github)
+![Contributions](https://img.shields.io/badge/Contributions-Calculated-blue?style=for-the-badge&logo=git)
 
 ---
 
