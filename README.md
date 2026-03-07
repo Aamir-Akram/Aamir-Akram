@@ -37,7 +37,7 @@ I design secure corporate-standard code and automated trading systems.
 ### 📟 ESTABLISH SECURE CONNECTION
 
 * **📧 Email:** aamirakram252003@gmail.com
-* **🌐 Portfolio:** [skycodelab.in](https://skycodelab.in)
+* **🌐 Portfolio:** my-portfolio-pi-gilt-27.vercel.app)
 * **🤝 Open for:** Penetration Testing, Security Audits, and Scalable Web Engineering.
 
 ---
