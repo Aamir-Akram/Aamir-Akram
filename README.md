@@ -1,189 +1,311 @@
-<p align="center">
-  <img width="2172" height="724" alt="showcase-strip" src="https://github.com/user-attachments/assets/5b4989ff-5dd8-4168-9ff1-0b514ed82f6b" />
-</p>
+<div align="center">
 
-<h1 align="center">Aamir Akram</h1>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=760&lines=ROOT-AAMIR;CYBERSECURITY+%7C+SECURITY+RESEARCH;PYTHON+%7C+WEB+SECURITY+%7C+AUTOMATION" alt="Root-Aamir"/>
 
-<p align="center">
-  <b>Full-Stack Developer • Cybersecurity Learner • AI Automation Builder</b>
-</p>
+<br>
 
-<p align="center">
-  Building secure web platforms, automation tools, trading systems, and digital products under <b>ApexZero</b>.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:071a12,100:00ff88&height=3&section=header" width="100%"/>
 
-<p align="center">
-  <a href="https://github.com/Root-Aamir?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-0D1117?style=for-the-badge&logo=github&logoColor=00BFFF" alt="Repositories" />
-  </a>
-  <a href="https://apexzero.tech/">
-    <img src="https://img.shields.io/badge/ApexZero-EA1D2C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ApexZero" />
-  </a>
-  <a href="mailto:aamirakram252003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00BFFF" alt="Email" />
-  </a>
-  <a href="https://github.com/Root-Aamir">
-    <img src="https://img.shields.io/badge/Status-Actively%20Maintained-0D1117?style=for-the-badge&logo=github&logoColor=8B7CF6" alt="Status" />
-  </a>
-</p>
+<br>
 
-<br/>
+**Security • Software • Automation**
+
+<br>
+
+<a href="https://github.com/Root-Aamir">
+<img src="https://img.shields.io/badge/GitHub-Root--Aamir-111111?style=for-the-badge&logo=github&logoColor=00FF88"/>
+</a>
+<a href="https://www.apexzero.tech/">
+<img src="https://img.shields.io/badge/ApexZero-111111?style=for-the-badge&logo=googlechrome&logoColor=00FF88"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Root-Aamir&style=flat-square&color=00ff88&label=PROFILE+VIEWS"/>
+
+</div>
 
 ---
 
-## ⚡ What have I been up to recently?
+## `whoami`
 
-I am focused on building practical software projects, cybersecurity tools, automation systems, and premium web platforms.
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  ROOT-AAMIR                                                  │
+├──────────────────────────────────────────────────────────────┤
+│  Focus       Cybersecurity & Security Research                │
+│  Engineering Full-Stack Development                           │
+│  Automation  Python & AI Workflows                            │
+│  Systems     Linux • Web • Cloud                              │
+│  Projects    Security Tools • Automation • Trading Systems   │
+│  Brand       ApexZero                                         │
+└──────────────────────────────────────────────────────────────┘
+```
+
+I build practical software and security-focused tools with an emphasis on **web security, OSINT, Python automation, AI-assisted workflows, and secure application development**.
+
+---
+
+## 🛡️ Security Focus
+
+```text
+WEB SECURITY       ███████████████████░  95%
+PYTHON AUTOMATION  ██████████████████░░  90%
+OSINT              █████████████████░░░  85%
+LINUX              ████████████████░░░░  80%
+NETWORK SECURITY   ███████████████░░░░░  75%
+AI AUTOMATION      ███████████████░░░░░  75%
+```
+
+**Areas of interest**
+
+* Web Application Security
+* Vulnerability Assessment
+* OSINT & Reconnaissance
+* Security Automation
+* Linux & Networking
+* AI-assisted Security Tools
+* Secure Web Development
+
+---
+
+# 🔥 Featured Security Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🔴 ApexZero
+### 🧠 AI Vulnerability Scanner
 
-- Software platforms  
-- Cybersecurity learning  
-- Automation systems  
-- Digital products  
-- Premium web experiences  
+AI-powered vulnerability scanning concept focused on **ethical web security testing**.
+
+**Stack:** Python
+
+<a href="https://github.com/Root-Aamir/ai-vulnerability-scanner">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00FF88?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
 
 </td>
+
 <td width="50%">
 
-### 🔵 Current Direction
+### 🔎 Git OSINT Scanner
 
-- React / Next.js websites  
-- Python automation  
-- Security tools  
-- AI workflows  
-- Trading technology  
+Professional OSINT tooling for analysing **Git repositories and developer activity**.
+
+**Focus:** OSINT • Git Intelligence
+
+<a href="https://github.com/Root-Aamir/git-osint-scanner">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00FF88?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌐 Web Security Scanner
+
+Security-focused tooling for exploring web application security.
+
+**Focus:** Web Security
+
+<a href="https://github.com/Root-Aamir">
+<img src="https://img.shields.io/badge/EXPLORE-111111?style=for-the-badge&logo=github&logoColor=00FF88"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🌍 Subdomain Finder
+
+Reconnaissance and asset-discovery tooling for identifying subdomains.
+
+**Focus:** Recon • Discovery
+
+<a href="https://github.com/Root-Aamir">
+<img src="https://img.shields.io/badge/EXPLORE-111111?style=for-the-badge&logo=github&logoColor=00FF88"/>
+</a>
 
 </td>
 </tr>
 </table>
-
-<br/>
-
-## 🚀 Featured Projects
-
-| Project | Description |
-|---|---|
-| [ApexZero](https://apexzero.tech/) | Software, cybersecurity, automation, and digital product brand |
-| [AI Vulnerability Scanner](https://github.com/Root-Aamir/ai-vulnerability-scanner) | AI-assisted security scanning concept |
-| [Omni Sentinel](https://github.com/Root-Aamir/omni-sentinel) | Security-focused project direction |
-| [Aamir AWS Portfolio](https://github.com/Root-Aamir/aamir-aws-portfolio) | Cloud and portfolio project |
-| [Web Security Scanner](https://github.com/Root-Aamir/web-security-scanner) | Web security tooling |
-| [Subdomain Finder](https://github.com/Root-Aamir/subdomain-finder) | Reconnaissance and discovery tool |
-
-<br/>
-
-## 🧰 Tech I work with
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00BFFF" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=00BFFF" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=8B7CF6" alt="Python" />
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=44CC11" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=EA1D2C" alt="Laravel" />
-  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00BFFF" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=44CC11" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=EA1D2C" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
-<br/>
-
-## 🎯 Current Focus
-
-<table>
-<tr>
-<td width="50%">
-
-### 💻 Software Engineering
-
-- React, Next.js and Tailwind CSS  
-- Backend APIs and dashboards  
-- Premium website interfaces  
-- SaaS-style product pages  
-
-</td>
-<td width="50%">
-
-### 🛡️ Cybersecurity + Automation
-
-- OSINT workflows  
-- Web security tools  
-- Python automation  
-- AI-assisted dashboards  
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🤖 AI Workflows
-
-- AI automation builders  
-- Smart productivity tools  
-- Prompt-based systems  
-- Security assistant concepts  
-
-</td>
-<td width="50%">
-
-### 📈 Trading Technology
-
-- Python trading systems  
-- MQL5 / MetaTrader 5  
-- Bot logic and dashboards  
-- Risk management tools  
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Root-Aamir&theme=github-dark&hide_border=true&area=true&custom_title=Aamir%20Akram%20GitHub%20Activity" width="100%" alt="Aamir Akram GitHub Activity Graph" />
-</p>
-
-<br/>
-
-## 🔗 Links
-
-<p align="center">
-  <a href="https://github.com/Root-Aamir?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20Repositories-0D1117?style=for-the-badge&logo=github&logoColor=00BFFF" alt="View Repositories" />
-  </a>
-  <a href="https://apexzero.tech/">
-    <img src="https://img.shields.io/badge/Visit%20ApexZero-EA1D2C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit ApexZero" />
-  </a>
-  <a href="mailto:aamirakram252003@gmail.com">
-    <img src="https://img.shields.io/badge/Contact%20Me-0D1117?style=for-the-badge&logo=gmail&logoColor=8B7CF6" alt="Contact Me" />
-  </a>
-</p>
-
-<br/>
 
 ---
 
-<p align="center">
-  <b>Aamir Akram — Full-Stack Developer | Cybersecurity | AI Automation</b>
-</p>
+# 🧰 Security & Development Stack
 
-<p align="center">
-  <i>Software • Security • Automation • Digital Systems</i>
-</p>
+<div align="center">
 
-<!-- profile achievement update -->
-<!-- pull shark second update -->
-<!-- YOLO final try: merged without review -->
-<!-- no bot YOLO try -->
-<!-- clean YOLO no-review attempt: yolo-clean-20260708125037 -->
-<!-- pair collaboration update: pair-extra-20260708125938 -->
+### Security
+
+<img src="https://skillicons.dev/icons?i=linux,kali,bash,python"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Nmap-111111?style=for-the-badge&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-111111?style=for-the-badge&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/SQLMap-111111?style=for-the-badge&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/Wireshark-111111?style=for-the-badge&logoColor=00FF88"/>
+
+### Development
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,react,nextjs,nodejs,tailwind,git,github,vscode"/>
+
+</div>
+
+---
+
+# ⚡ What I Build
+
+```text
+                    ┌──────────────────┐
+                    │     ROOT-AAMIR   │
+                    └────────┬─────────┘
+                             │
+        ┌────────────────────┼────────────────────┐
+        ▼                    ▼                    ▼
+   CYBERSECURITY         SOFTWARE             AUTOMATION
+        │                    │                    │
+   Web Security          React / Next.js      Python
+   OSINT                 Backend APIs         AI Workflows
+   Recon                  Dashboards           Security Tools
+   Linux                  Cloud                Trading Systems
+```
+
+---
+
+# 🤖 AI + Automation
+
+Building practical automation around:
+
+* AI-assisted security workflows
+* Python automation
+* Security dashboards
+* Intelligent developer tools
+* Automated analysis pipelines
+
+---
+
+# 📈 Trading Technology
+
+A secondary engineering area focused on automation and systems development.
+
+```text
+Python
+   │
+   ├── Trading Automation
+   ├── MT5 Integration
+   ├── Strategy Logic
+   └── Risk / Dashboard Systems
+
+MQL5
+   │
+   └── MetaTrader 5 Expert Advisors
+```
+
+---
+
+# ☁️ Cloud & Full-Stack
+
+I also build complete web platforms and cloud-connected applications.
+
+**Frontend**
+
+`React` `Next.js` `Tailwind CSS`
+
+**Backend**
+
+`Python` `Node.js` `REST APIs`
+
+**Cloud**
+
+`AWS` `Cloud Platforms` `Deployment`
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Root-Aamir&show_icons=true&hide_border=true&theme=github_dark&bg_color=00000000&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Root-Aamir&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000&title_color=00FF88&text_color=FFFFFF"/>
+
+</div>
+
+---
+
+# 📡 Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Root-Aamir&bg_color=00000000&color=00FF88&line=00FF88&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+# 🎯 Current Mission
+
+```bash
+root@aamir:~$ ./mission.sh
+
+[+] Build practical security tools
+[+] Improve web security skills
+[+] Develop Python automation
+[+] Explore AI + cybersecurity
+[+] Contribute to open source
+[+] Build secure software
+[+] Keep learning
+```
+
+---
+
+# 🏴‍☠️ Security Philosophy
+
+> **Think like an attacker. Build like an engineer. Defend like a security researcher.**
+
+All security research and tooling should be used **only on systems where you have explicit authorization**.
+
+---
+
+# 🌐 ApexZero
+
+**ApexZero** is my broader software and technology brand covering:
+
+`Cybersecurity` • `Automation` • `Software` • `Digital Systems`
+
+<a href="https://www.apexzero.tech/">
+<img src="https://img.shields.io/badge/VISIT%20APEXZERO-00FF88?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+</a>
+
+---
+
+# 🤝 Connect
+
+<div align="center">
+
+<a href="https://github.com/Root-Aamir">
+<img src="https://img.shields.io/badge/GitHub-Root--Aamir-111111?style=for-the-badge&logo=github&logoColor=00FF88"/>
+</a>
+
+<br><br>
+
+**Security • Engineering • Automation**
+
+<br>
+
+`Learn → Build → Break → Secure`
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,100:050505&height=120&section=footer"/>
+
+</div>
