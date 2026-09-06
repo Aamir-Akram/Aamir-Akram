@@ -185,19 +185,19 @@ Personal developer portfolio and project showcase on GitHub Pages.
 # 🤖 AI & Automation
 
 ```text
-                 ┌─────────────────────┐
-                 │     ROOT-AAMIR      │
-                 └──────────┬──────────┘
-                            │
-              ┌─────────────┼─────────────┐
-              │             │             │
-              ▼             ▼             ▼
-           SECURITY       AI/ML       AUTOMATION
-              │             │             │
-        Web Security    AI Tools       Python
-        OSINT           Analysis       APIs
-        Recon           Workflows      Dashboards
-        Scanning        Assistants     Integrations
+                ┌─────────────────────┐
+                │     ROOT-AAMIR      │
+                └──────────┬──────────┘
+                           │
+             ┌─────────────┼─────────────┐
+             │             │             │
+             ▼             ▼             ▼
+          SECURITY       AI/ML       AUTOMATION
+             │             │             │
+       Web Security    AI Tools       Python
+       OSINT           Analysis       APIs
+       Recon           Workflows      Dashboards
+       Scanning        Assistants     Integrations
 ```
 
 I work on automation and AI-assisted systems for:
